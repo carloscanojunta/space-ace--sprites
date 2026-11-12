@@ -10,5 +10,3 @@ namespace SpriteKind {
     export const credit = SpriteKind.create()
     export const shipFlames = SpriteKind.create()
 }
-scene.setBackgroundImage(assets.image`mySpace`)
-scroller.scrollBackgroundWithSpeed(0, -50)
