@@ -344,6 +344,11 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "mySpace"
     },
+    "image40": {
+        "data": "hwQQAAkAAAAA4O4AAAAAAADu7g4AAAAA4E7u7gAAAADgRC7iAAAAAO7kLuIOAAAATuTu4g4AAABO7u7uDgAAAO7u7u4OAAAA7i7uTg4AAADuIuJEDgAAAOAi4uQAAAAA4C7u7gAAAAAA7u4OAAAAAADg7gAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "asteroide"
+    },
     "*_frames": {
         "namespace": "#j(bQEONHou`$yj?Xw",
         "id": "*_frames",

@@ -2023,6 +2023,18 @@ ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 `;
+            case "image40":
+            case "asteroide":return img`
+. . . . e e e e e e . . . . . . 
+. . e e e 4 4 e e e e e . . . . 
+. e e 4 4 4 e e e 2 2 e e . . . 
+e e 4 4 e e e e 2 2 2 2 e e . . 
+e e e e e e e e e 2 2 e e e . . 
+e e e 2 2 e e e e e e e e e . . 
+. e e 2 2 2 e e e 4 4 e e . . . 
+. . e e e e e e 4 4 e e . . . . 
+. . . . e e e e e e . . . . . . 
+`;
         }
         return null;
     })
